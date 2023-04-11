@@ -1,0 +1,484 @@
+date,center_name,attendance_count
+2020-11-06,Phillips Community Center,1
+2020-11-04,West Penn Community Center,2
+2020-11-02,Brookline Community Center,1
+2020-10-12,West Penn Community Center,1
+2020-03-16,West Penn Community Center,7
+2020-03-16,Ammon Community Center,2
+2020-03-16,Brookline Community Center,6
+2020-03-16,Magee Community Center,2
+2020-03-16,Phillips Community Center,3
+2020-03-14,Warrington Community Center,6
+2020-03-14,Brookline Community Center,16
+2020-03-14,Magee Community Center,9
+2020-03-14,Phillips Community Center,6
+2020-03-13,Warrington Community Center,69
+2020-03-13,West Penn Community Center,48
+2020-03-13,Ammon Community Center,31
+2020-03-13,Brookline Community Center,41
+2020-03-13,Jefferson Community Center,17
+2020-03-13,Magee Community Center,79
+2020-03-13,Ormsby Community Center,31
+2020-03-13,Phillips Community Center,113
+2020-03-12,West Penn Community Center,69
+2020-03-12,Warrington Community Center,50
+2020-03-12,Ammon Community Center,33
+2020-03-12,Jefferson Community Center,27
+2020-03-12,Brookline Community Center,35
+2020-03-12,Ormsby Community Center,51
+2020-03-12,Magee Community Center,52
+2020-03-12,Phillips Community Center,115
+2020-03-12,Paulson Community Center,16
+2020-03-11,Warrington Community Center,65
+2020-03-11,West Penn Community Center,79
+2020-03-11,Ammon Community Center,130
+2020-03-11,Brookline Community Center,54
+2020-03-11,Jefferson Community Center,25
+2020-03-11,Magee Community Center,36
+2020-03-11,Ormsby Community Center,31
+2020-03-11,Paulson Community Center,23
+2020-03-11,Phillips Community Center,97
+2020-03-10,West Penn Community Center,99
+2020-03-10,Warrington Community Center,58
+2020-03-10,Ammon Community Center,87
+2020-03-10,Jefferson Community Center,25
+2020-03-10,Brookline Community Center,62
+2020-03-10,Ormsby Community Center,50
+2020-03-10,Magee Community Center,46
+2020-03-10,Phillips Community Center,105
+2020-03-10,Paulson Community Center,2
+2020-03-09,Warrington Community Center,65
+2020-03-09,West Penn Community Center,63
+2020-03-09,Ammon Community Center,69
+2020-03-09,Brookline Community Center,40
+2020-03-09,Jefferson Community Center,36
+2020-03-09,Magee Community Center,78
+2020-03-09,Ormsby Community Center,41
+2020-03-09,Paulson Community Center,26
+2020-03-09,Phillips Community Center,103
+2020-03-08,Ammon Community Center,1
+2020-03-07,West Penn Community Center,115
+2020-03-07,Warrington Community Center,13
+2020-03-07,Ammon Community Center,4
+2020-03-07,Brookline Community Center,20
+2020-03-07,Magee Community Center,11
+2020-03-07,Phillips Community Center,26
+2020-03-06,Warrington Community Center,57
+2020-03-06,West Penn Community Center,37
+2020-03-06,Ammon Community Center,153
+2020-03-06,Brookline Community Center,46
+2020-03-06,Jefferson Community Center,17
+2020-03-06,Magee Community Center,35
+2020-03-06,Ormsby Community Center,51
+2020-03-06,Phillips Community Center,71
+2020-03-06,Paulson Community Center,15
+2020-03-05,West Penn Community Center,44
+2020-03-05,Warrington Community Center,55
+2020-03-05,Ammon Community Center,54
+2020-03-05,Jefferson Community Center,25
+2020-03-05,Brookline Community Center,53
+2020-03-05,Ormsby Community Center,34
+2020-03-05,Magee Community Center,87
+2020-03-05,Paulson Community Center,21
+2020-03-05,Phillips Community Center,103
+2020-03-04,Warrington Community Center,57
+2020-03-04,West Penn Community Center,108
+2020-03-04,Ammon Community Center,82
+2020-03-04,Brookline Community Center,52
+2020-03-04,Jefferson Community Center,20
+2020-03-04,Magee Community Center,89
+2020-03-04,Ormsby Community Center,31
+2020-03-04,Phillips Community Center,122
+2020-03-04,Paulson Community Center,24
+2020-03-03,West Penn Community Center,75
+2020-03-03,Warrington Community Center,69
+2020-03-03,Ammon Community Center,52
+2020-03-03,Jefferson Community Center,21
+2020-03-03,Brookline Community Center,48
+2020-03-03,Ormsby Community Center,38
+2020-03-03,Magee Community Center,55
+2020-03-03,Paulson Community Center,23
+2020-03-03,Phillips Community Center,126
+2020-03-02,Warrington Community Center,78
+2020-03-02,West Penn Community Center,62
+2020-03-02,Ammon Community Center,129
+2020-03-02,Brookline Community Center,72
+2020-03-02,Jefferson Community Center,15
+2020-03-02,Magee Community Center,56
+2020-03-02,Ormsby Community Center,42
+2020-03-02,Phillips Community Center,94
+2020-03-02,Paulson Community Center,15
+2020-02-29,West Penn Community Center,105
+2020-02-29,Brookline Community Center,17
+2020-02-29,Magee Community Center,25
+2020-02-29,Phillips Community Center,19
+2020-02-28,West Penn Community Center,63
+2020-02-28,Warrington Community Center,33
+2020-02-28,Ammon Community Center,146
+2020-02-28,Brookline Community Center,50
+2020-02-28,Jefferson Community Center,29
+2020-02-28,Magee Community Center,44
+2020-02-28,Ormsby Community Center,38
+2020-02-28,Phillips Community Center,86
+2020-02-28,Paulson Community Center,26
+2020-02-27,Warrington Community Center,49
+2020-02-27,West Penn Community Center,105
+2020-02-27,Ammon Community Center,43
+2020-02-27,Jefferson Community Center,24
+2020-02-27,Brookline Community Center,43
+2020-02-27,Ormsby Community Center,44
+2020-02-27,Magee Community Center,52
+2020-02-27,Paulson Community Center,10
+2020-02-27,Phillips Community Center,66
+2020-02-26,West Penn Community Center,74
+2020-02-26,Warrington Community Center,35
+2020-02-26,Ammon Community Center,101
+2020-02-26,Brookline Community Center,83
+2020-02-26,Jefferson Community Center,21
+2020-02-26,Magee Community Center,59
+2020-02-26,Ormsby Community Center,12
+2020-02-26,Phillips Community Center,63
+2020-02-26,Phillips Park Field,10
+2020-02-26,Paulson Community Center,18
+2020-02-25,Warrington Community Center,33
+2020-02-25,West Penn Community Center,134
+2020-02-25,Ammon Community Center,65
+2020-02-25,Jefferson Community Center,22
+2020-02-25,Brookline Community Center,59
+2020-02-25,Ormsby Community Center,18
+2020-02-25,Magee Community Center,60
+2020-02-25,Phillips Community Center,103
+2020-02-24,West Penn Community Center,59
+2020-02-24,Warrington Community Center,49
+2020-02-24,Ammon Community Center,98
+2020-02-24,Brookline Community Center,56
+2020-02-24,Jefferson Community Center,35
+2020-02-24,Magee Community Center,36
+2020-02-24,Ormsby Community Center,20
+2020-02-24,Phillips Community Center,96
+2020-02-23,Ammon Community Center,1
+2020-02-22,Warrington Community Center,28
+2020-02-22,West Penn Community Center,64
+2020-02-22,Brookline Community Center,11
+2020-02-22,Magee Community Center,32
+2020-02-22,Phillips Community Center,143
+2020-02-21,West Penn Community Center,75
+2020-02-21,Warrington Community Center,61
+2020-02-21,Ammon Community Center,12
+2020-02-21,Brookline Community Center,69
+2020-02-21,Jefferson Community Center,18
+2020-02-21,Magee Community Center,61
+2020-02-21,Ormsby Community Center,14
+2020-02-21,Phillips Community Center,75
+2020-02-20,Warrington Community Center,56
+2020-02-20,West Penn Community Center,109
+2020-02-20,Ammon Community Center,25
+2020-02-20,Jefferson Community Center,23
+2020-02-20,Brookline Community Center,75
+2020-02-20,Ormsby Community Center,36
+2020-02-20,Magee Community Center,71
+2020-02-20,Phillips Community Center,83
+2020-02-20,Paulson Community Center,15
+2020-02-19,West Penn Community Center,78
+2020-02-19,Warrington Community Center,57
+2020-02-19,Ammon Community Center,70
+2020-02-19,Brookline Community Center,86
+2020-02-19,Jefferson Community Center,19
+2020-02-19,Magee Community Center,54
+2020-02-19,Ormsby Community Center,32
+2020-02-19,Paulson Community Center,35
+2020-02-19,Phillips Community Center,104
+2020-02-18,Warrington Community Center,58
+2020-02-18,West Penn Community Center,94
+2020-02-18,Ammon Community Center,33
+2020-02-18,Jefferson Community Center,12
+2020-02-18,Brookline Community Center,75
+2020-02-18,Ormsby Community Center,48
+2020-02-18,Magee Community Center,42
+2020-02-18,Phillips Community Center,112
+2020-02-18,Paulson Community Center,30
+2020-02-17,West Penn Community Center,65
+2020-02-17,Warrington Community Center,58
+2020-02-17,Ammon Community Center,116
+2020-02-17,Brookline Community Center,62
+2020-02-17,Jefferson Community Center,20
+2020-02-17,Magee Community Center,45
+2020-02-17,Ormsby Community Center,10
+2020-02-17,Paulson Community Center,33
+2020-02-17,Phillips Community Center,80
+2020-02-15,Warrington Community Center,10
+2020-02-15,West Penn Community Center,146
+2020-02-15,Magee Community Center,11
+2020-02-15,Phillips Community Center,21
+2020-02-14,West Penn Community Center,92
+2020-02-14,Warrington Community Center,44
+2020-02-14,Ammon Community Center,12
+2020-02-14,Jefferson Community Center,14
+2020-02-14,Brookline Community Center,42
+2020-02-14,Magee Community Center,42
+2020-02-14,Ormsby Community Center,18
+2020-02-14,Phillips Community Center,87
+2020-02-14,Paulson Community Center,26
+2020-02-13,Warrington Community Center,53
+2020-02-13,West Penn Community Center,99
+2020-02-13,Ammon Community Center,68
+2020-02-13,Brookline Community Center,63
+2020-02-13,Jefferson Community Center,18
+2020-02-13,Ormsby Community Center,38
+2020-02-13,Magee Community Center,58
+2020-02-13,Paulson Community Center,27
+2020-02-13,Phillips Community Center,57
+2020-02-12,West Penn Community Center,68
+2020-02-12,Warrington Community Center,56
+2020-02-12,Ammon Community Center,49
+2020-02-12,Jefferson Community Center,20
+2020-02-12,Brookline Community Center,84
+2020-02-12,Magee Community Center,59
+2020-02-12,Ormsby Community Center,16
+2020-02-12,Phillips Community Center,101
+2020-02-12,Paulson Community Center,28
+2020-02-11,Warrington Community Center,51
+2020-02-11,West Penn Community Center,98
+2020-02-11,Ammon Community Center,48
+2020-02-11,Brookline Community Center,88
+2020-02-11,Jefferson Community Center,14
+2020-02-11,Ormsby Community Center,24
+2020-02-11,Magee Community Center,70
+2020-02-11,Phillips Community Center,122
+2020-02-10,West Penn Community Center,69
+2020-02-10,Warrington Community Center,57
+2020-02-10,Ammon Community Center,61
+2020-02-10,Jefferson Community Center,14
+2020-02-10,Brookline Community Center,59
+2020-02-10,Magee Community Center,95
+2020-02-10,Ormsby Community Center,15
+2020-02-10,Phillips Community Center,91
+2020-02-08,Warrington Community Center,7
+2020-02-08,West Penn Community Center,98
+2020-02-08,Brookline Community Center,29
+2020-02-08,Magee Community Center,8
+2020-02-08,Phillips Community Center,21
+2020-02-07,West Penn Community Center,39
+2020-02-07,Warrington Community Center,36
+2020-02-07,Ammon Community Center,42
+2020-02-07,Brookline Community Center,42
+2020-02-07,Magee Community Center,41
+2020-02-07,Ormsby Community Center,10
+2020-02-07,Phillips Community Center,31
+2020-02-06,Warrington Community Center,59
+2020-02-06,West Penn Community Center,103
+2020-02-06,Ammon Community Center,46
+2020-02-06,Brookline Community Center,51
+2020-02-06,Ormsby Community Center,51
+2020-02-06,Magee Community Center,74
+2020-02-06,Phillips Community Center,98
+2020-02-05,West Penn Community Center,56
+2020-02-05,Warrington Community Center,72
+2020-02-05,Ammon Community Center,67
+2020-02-05,Brookline Community Center,68
+2020-02-05,Jefferson Community Center,12
+2020-02-05,Magee Community Center,84
+2020-02-05,Ormsby Community Center,33
+2020-02-05,Phillips Community Center,105
+2020-02-05,Paulson Community Center,27
+2020-02-04,Warrington Community Center,48
+2020-02-04,West Penn Community Center,59
+2020-02-04,Ammon Community Center,46
+2020-02-04,Brookline Community Center,65
+2020-02-04,Ormsby Community Center,43
+2020-02-04,Magee Community Center,46
+2020-02-04,Phillips Community Center,95
+2020-02-03,West Penn Community Center,59
+2020-02-03,Warrington Community Center,91
+2020-02-03,Ammon Community Center,65
+2020-02-03,Brookline Community Center,53
+2020-02-03,Magee Community Center,90
+2020-02-03,Ormsby Community Center,13
+2020-02-03,Phillips Community Center,99
+2020-02-01,Warrington Community Center,7
+2020-02-01,West Penn Community Center,48
+2020-02-01,Brookline Community Center,16
+2020-02-01,Magee Community Center,13
+2020-02-01,Phillips Community Center,19
+2020-01-31,West Penn Community Center,85
+2020-01-31,Warrington Community Center,61
+2020-01-31,Ammon Community Center,38
+2020-01-31,Brookline Community Center,58
+2020-01-31,Magee Community Center,65
+2020-01-31,Ormsby Community Center,36
+2020-01-31,Phillips Community Center,82
+2020-01-30,Warrington Community Center,48
+2020-01-30,West Penn Community Center,108
+2020-01-30,Ammon Community Center,99
+2020-01-30,Brookline Community Center,68
+2020-01-30,Jefferson Community Center,16
+2020-01-30,Ormsby Community Center,41
+2020-01-30,Magee Community Center,69
+2020-01-30,Phillips Community Center,58
+2020-01-29,West Penn Community Center,80
+2020-01-29,Warrington Community Center,63
+2020-01-29,Ammon Community Center,73
+2020-01-29,Jefferson Community Center,19
+2020-01-29,Brookline Community Center,70
+2020-01-29,Magee Community Center,55
+2020-01-29,Ormsby Community Center,41
+2020-01-29,Phillips Community Center,91
+2020-01-28,Warrington Community Center,82
+2020-01-28,West Penn Community Center,70
+2020-01-28,Ammon Community Center,71
+2020-01-28,Brookline Community Center,60
+2020-01-28,Jefferson Community Center,16
+2020-01-28,Ormsby Community Center,19
+2020-01-28,Magee Community Center,60
+2020-01-28,Phillips Community Center,65
+2020-01-28,Paulson Community Center,41
+2020-01-27,West Penn Community Center,75
+2020-01-27,Warrington Community Center,98
+2020-01-27,Ammon Community Center,30
+2020-01-27,Jefferson Community Center,15
+2020-01-27,Brookline Community Center,60
+2020-01-27,Magee Community Center,38
+2020-01-27,Ormsby Community Center,21
+2020-01-27,Phillips Community Center,112
+2020-01-25,Warrington Community Center,5
+2020-01-25,West Penn Community Center,106
+2020-01-25,Magee Community Center,5
+2020-01-25,Phillips Community Center,41
+2020-01-24,West Penn Community Center,58
+2020-01-24,Warrington Community Center,64
+2020-01-24,Ammon Community Center,15
+2020-01-24,Brookline Community Center,48
+2020-01-24,Jefferson Community Center,21
+2020-01-24,Magee Community Center,90
+2020-01-24,Ormsby Community Center,44
+2020-01-24,Phillips Community Center,98
+2020-01-23,Warrington Community Center,61
+2020-01-23,West Penn Community Center,126
+2020-01-23,Ammon Community Center,24
+2020-01-23,Jefferson Community Center,11
+2020-01-23,Brookline Community Center,80
+2020-01-23,Ormsby Community Center,16
+2020-01-23,Magee Community Center,93
+2020-01-23,Phillips Community Center,105
+2020-01-22,West Penn Community Center,55
+2020-01-22,Warrington Community Center,61
+2020-01-22,Ammon Community Center,120
+2020-01-22,Arlington Community Center,8
+2020-01-22,Brookline Community Center,70
+2020-01-22,Jefferson Community Center,19
+2020-01-22,Magee Community Center,80
+2020-01-22,Ormsby Community Center,31
+2020-01-22,Phillips Community Center,86
+2020-01-21,Warrington Community Center,48
+2020-01-21,West Penn Community Center,87
+2020-01-21,Ammon Community Center,30
+2020-01-21,Jefferson Community Center,20
+2020-01-21,Brookline Community Center,88
+2020-01-21,Ormsby Community Center,19
+2020-01-21,Magee Community Center,62
+2020-01-21,Phillips Community Center,76
+2020-01-17,West Penn Community Center,53
+2020-01-17,Warrington Community Center,55
+2020-01-17,Ammon Community Center,84
+2020-01-17,Brookline Community Center,64
+2020-01-17,Jefferson Community Center,21
+2020-01-17,Magee Community Center,43
+2020-01-17,Ormsby Community Center,45
+2020-01-17,Phillips Community Center,54
+2020-01-16,Warrington Community Center,46
+2020-01-16,West Penn Community Center,97
+2020-01-16,Ammon Community Center,44
+2020-01-16,Jefferson Community Center,21
+2020-01-16,Brookline Community Center,57
+2020-01-16,Ormsby Community Center,41
+2020-01-16,Magee Community Center,87
+2020-01-16,Phillips Community Center,51
+2020-01-15,West Penn Community Center,49
+2020-01-15,Warrington Community Center,59
+2020-01-15,Ammon Community Center,99
+2020-01-15,Brookline Community Center,74
+2020-01-15,Jefferson Community Center,21
+2020-01-15,Magee Community Center,51
+2020-01-15,Ormsby Community Center,24
+2020-01-15,Phillips Community Center,99
+2020-01-14,Warrington Community Center,71
+2020-01-14,West Penn Community Center,110
+2020-01-14,Ammon Community Center,37
+2020-01-14,Jefferson Community Center,18
+2020-01-14,Brookline Community Center,71
+2020-01-14,Ormsby Community Center,22
+2020-01-14,Magee Community Center,45
+2020-01-14,Phillips Community Center,95
+2020-01-13,West Penn Community Center,66
+2020-01-13,Warrington Community Center,74
+2020-01-13,Ammon Community Center,108
+2020-01-13,Brookline Community Center,62
+2020-01-13,Jefferson Community Center,27
+2020-01-13,Magee Community Center,76
+2020-01-13,Ormsby Community Center,39
+2020-01-13,Phillips Community Center,90
+2020-01-11,Warrington Community Center,30
+2020-01-11,West Penn Community Center,95
+2020-01-11,Brookline Community Center,18
+2020-01-11,Magee Community Center,43
+2020-01-11,Phillips Community Center,95
+2020-01-10,West Penn Community Center,86
+2020-01-10,Warrington Community Center,40
+2020-01-10,Ammon Community Center,64
+2020-01-10,Brookline Community Center,48
+2020-01-10,Jefferson Community Center,18
+2020-01-10,Magee Community Center,60
+2020-01-10,Ormsby Community Center,20
+2020-01-10,Phillips Community Center,77
+2020-01-09,Warrington Community Center,54
+2020-01-09,West Penn Community Center,120
+2020-01-09,Ammon Community Center,95
+2020-01-09,Jefferson Community Center,19
+2020-01-09,Brookline Community Center,50
+2020-01-09,Ormsby Community Center,43
+2020-01-09,Magee Community Center,86
+2020-01-09,Phillips Community Center,85
+2020-01-08,West Penn Community Center,60
+2020-01-08,Warrington Community Center,47
+2020-01-08,Ammon Community Center,43
+2020-01-08,Brookline Community Center,81
+2020-01-08,Jefferson Community Center,20
+2020-01-08,Magee Community Center,43
+2020-01-08,Ormsby Community Center,43
+2020-01-08,Phillips Community Center,92
+2020-01-07,Warrington Community Center,49
+2020-01-07,West Penn Community Center,77
+2020-01-07,Ammon Community Center,24
+2020-01-07,Jefferson Community Center,25
+2020-01-07,Brookline Community Center,58
+2020-01-07,Ormsby Community Center,48
+2020-01-07,Magee Community Center,58
+2020-01-07,Phillips Community Center,88
+2020-01-06,West Penn Community Center,68
+2020-01-06,Warrington Community Center,76
+2020-01-06,Ammon Community Center,96
+2020-01-06,Brookline Community Center,63
+2020-01-06,Jefferson Community Center,23
+2020-01-06,Magee Community Center,52
+2020-01-06,Ormsby Community Center,7
+2020-01-06,Phillips Community Center,92
+2020-01-04,West Penn Community Center,91
+2020-01-04,Brookline Community Center,16
+2020-01-04,Magee Community Center,15
+2020-01-04,Phillips Community Center,47
+2020-01-03,West Penn Community Center,53
+2020-01-03,Warrington Community Center,35
+2020-01-03,Ammon Community Center,16
+2020-01-03,Brookline Community Center,67
+2020-01-03,Jefferson Community Center,14
+2020-01-03,Magee Community Center,49
+2020-01-03,Ormsby Community Center,16
+2020-01-03,Phillips Community Center,26
+2020-01-02,Warrington Community Center,44
+2020-01-02,West Penn Community Center,54
+2020-01-02,Ammon Community Center,40
+2020-01-02,Jefferson Community Center,19
+2020-01-02,Brookline Community Center,70
+2020-01-02,Ormsby Community Center,15
+2020-01-02,Magee Community Center,38
+2020-01-02,Phillips Community Center,60
